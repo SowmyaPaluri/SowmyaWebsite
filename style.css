@@ -368,7 +368,16 @@ section .title::after{
     width: 100%;
 }
 .skills-content .right .js::before{
-    width: 80%;
+    width: 85%;
+}
+.skills-content .right .c::before{
+    width: 90%;
+}
+.skills-content .right .python::before{
+    width: 95%;
+}
+.skills-content .right .java::before{
+    width: 85%;
 }
 
 /* services section styling */
